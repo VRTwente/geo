@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="70"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 70 70"
+   id="svg851"
+   sodipodi:docname="solitair_bouwwerk_risicogevend.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata855"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview853"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="9.0191915"
+   inkscape:cx="25.073734"
+   inkscape:cy="28.455283"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg851" />
+ <defs
+   id="defs838">
+  <style
+   type="text/css"
+   id="style836">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:19.7191}
+    .fil0 {fill:#2B2A29}
+    .fil2 {fill:#E31E24}
+    .fil1 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.06133429,0,0,0.06133429,0.68621065,0.24838829)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_998894576">
+   <path
+   class="fil0 str0"
+   d="m 97,1128 h 921 c 48,0 87,-39 87,-87 V 97 c 0,-48 -39,-87 -87,-87 H 97 C 49,10 10,49 10,97 v 944 c 0,48 39,87 87,87 z"
+   id="path841"
+   inkscape:connector-curvature="0"
+   style="fill:#2b2a29;stroke:#2b2a29;stroke-width:19.71910095" />
+   <path
+   class="fil1 str0"
+   d="m 108,66 h 899 c 24,0 44,19 44,44 v 918 c 0,25 -20,44 -44,44 H 108 c -24,0 -43,-19 -43,-44 V 110 C 65,85 84,66 108,66 Z"
+   id="path843"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe;stroke:#2b2a29;stroke-width:19.71910095" />
+   <path
+   class="fil0 str0"
+   d="M 558,866 H 835 V 485 H 767 V 405 L 558,272 348,405 v 80 h -68 v 381 z m 0,76 H 900 V 485 h 65 V 405 H 900 L 558,192 215,405 h -64 v 80 h 64 v 457 z"
+   id="path845"
+   inkscape:connector-curvature="0"
+   style="fill:#2b2a29;stroke:#2b2a29;stroke-width:19.71910095" />
+   <polygon
+   class="fil2 str0"
+   points="558,272 348,405 348,485 280,485 280,866 558,866 835,866 835,485 767,485 767,405 "
+   id="polygon847"
+   style="fill:#e31e24;stroke:#2b2a29;stroke-width:19.71910095" />
+  </g>
+ </g>
+</svg>

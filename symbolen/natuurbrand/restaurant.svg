@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="69"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 69 70"
+   id="svg19"
+   sodipodi:docname="restaurant.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview21"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="7.0995161"
+   inkscape:cx="26.68986"
+   inkscape:cy="33.037524"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg19" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:24.3417}
+    .str2 {stroke:#375895;stroke-width:24.3417}
+    .str1 {stroke:#945231;stroke-width:24.3417}
+    .fil0 {fill:#FEFEFE}
+    .fil3 {fill:#010101}
+    .fil2 {fill:#375895}
+    .fil1 {fill:#945231}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.04944157,0,0,0.04954151,0.39889631,0.0757203)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_851976992">
+   <rect
+   class="fil0 str0"
+   x="80"
+   y="81"
+   width="1217"
+   height="1242"
+   rx="54"
+   ry="54"
+   id="rect7"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:24.3416996" />
+   <rect
+   class="fil1 str1"
+   x="52"
+   y="59"
+   width="1264"
+   height="1293"
+   id="rect9"
+   style="fill:#945231;stroke:#945231;stroke-width:24.3416996" />
+   <path
+   class="fil2 str2"
+   d="m 120,1393 h 1136 c 60,0 109,-49 109,-109 V 120 C 1365,61 1316,12 1256,12 H 120 C 61,12 12,61 12,120 v 1164 c 0,60 49,109 108,109 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#375895;stroke:#375895;stroke-width:24.3416996" />
+   <path
+   class="fil0 str2"
+   d="m 134,81 h 1109 c 30,0 54,24 54,54 v 1135 c 0,29 -24,54 -54,54 H 134 c -30,0 -54,-25 -54,-54 V 135 c 0,-30 24,-54 54,-54 z"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe;stroke:#375895;stroke-width:24.3416996" />
+   <path
+   class="fil3"
+   d="m 766,568 c -17,25 -49,54 -64,72 -4,4 -5,7 -9,11 -9,12 -1,5 -14,12 -13,-12 -26,-28 -37,-41 -14,-17 -25,-24 -37,-42 7,-24 40,-60 15,-125 -25,-67 -181,-224 -280,-144 -71,57 -28,158 11,221 33,53 102,137 198,91 12,11 28,33 39,48 13,16 29,36 39,52 l -289,329 c -22,25 -5,44 13,57 66,48 45,54 174,-116 27,-35 49,-64 76,-99 l 78,-100 c 15,11 62,76 78,97 l 153,198 c 39,52 43,69 101,19 42,-37 18,-52 -31,-105 L 796,794 c -21,-22 -41,-39 -63,-71 9,-15 30,-40 42,-56 14,-19 31,-38 44,-57 32,11 67,14 99,-4 35,-20 83,-99 110,-136 20,-28 46,-69 35,-81 -11,-12 -50,39 -63,54 -21,26 -54,64 -64,55 -12,-11 98,-111 94,-139 -1,-8 -9,-13 -20,-11 -14,3 -42,46 -53,60 -16,19 -53,68 -64,55 -10,-11 36,-58 45,-69 15,-18 63,-60 46,-74 -5,-5 -10,-16 -46,26 l -52,60 c -10,12 -25,31 -34,23 -7,-8 5,-26 10,-34 8,-11 94,-101 76,-117 -21,-17 -42,22 -62,45 -22,24 -37,40 -64,67 -18,16 -48,49 -57,70 -19,49 -3,71 11,108 z"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:#010101" />
+  </g>
+ </g>
+</svg>

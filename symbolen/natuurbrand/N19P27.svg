@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="70"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 70 70"
+   id="svg17"
+   sodipodi:docname="zwaartepunt.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="3.6222427"
+   inkscape:cx="115.76982"
+   inkscape:cy="4.4191951"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg17"
+   units="px" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#D6061C;stroke-width:30.1655}
+    .fil1 {fill:#E31E24}
+    .fil0 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.04106507,0,0,0.04106507,0.23457323,-0.13624277)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_882798416">
+   <rect
+   class="fil0 str0"
+   x="134"
+   y="15"
+   width="1438"
+   height="1676"
+   id="rect7"
+   style="fill:#fefefe;stroke:#d6061c;stroke-width:30.16550064" />
+   <path
+   class="fil1 str0"
+   d="m 134,15 h 1438 c 65,0 119,54 119,119 v 1438 c 0,65 -54,119 -119,119 H 134 C 69,1691 15,1637 15,1572 V 134 C 15,69 69,15 134,15 Z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24;stroke:#d6061c;stroke-width:30.16550064" />
+   <circle
+   class="fil0 str0"
+   cx="853"
+   cy="1344"
+   r="205"
+   id="circle11"
+   style="fill:#fefefe;stroke:#d6061c;stroke-width:30.16550064" />
+   <polygon
+   class="fil0 str0"
+   points="1183,670 1018,670 1018,175 688,175 688,670 524,670 853,999 "
+   id="polygon13"
+   style="fill:#fefefe;stroke:#d6061c;stroke-width:30.16550064" />
+  </g>
+ </g>
+</svg>

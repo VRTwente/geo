@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="70"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 70 70"
+   id="svg13"
+   sodipodi:docname="waterinnamepunt_openwater.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview15"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="3.5392953"
+   inkscape:cx="57.912723"
+   inkscape:cy="-43.929122"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg13" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:26.3817}
+    .str1 {stroke:#236ABD;stroke-width:26.3817}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#3174C1}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.04584043,0,0,0.04584043,0.64239345,0.29243222)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_855722064">
+   <ellipse
+   class="fil0 str0"
+   cx="746"
+   cy="764"
+   rx="733"
+   ry="750"
+   id="ellipse7"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:26.38170052" />
+   <path
+   class="fil1 str1"
+   d="m 746,387 c 91,0 107,-24 156,-44 29,11 56,25 81,41 -47,27 -107,92 -237,92 -130,0 -190,-65 -237,-92 25,-16 52,-30 81,-41 49,20 65,44 156,44 z m 0,333 c 198,0 251,-128 375,-192 -13,-21 -26,-40 -42,-58 -86,56 -160,158 -333,158 -173,0 -247,-102 -333,-158 -16,18 -29,37 -41,57 123,65 176,193 374,193 z M 319,656 c 161,40 176,210 427,210 251,0 266,-170 427,-210 7,29 11,59 12,90 C 1051,782 952,966 746,971 540,966 441,782 307,745 c 1,-30 5,-60 12,-89 z m 427,558 c 198,0 366,-135 421,-319 -225,101 -188,217 -421,217 -233,0 -196,-116 -421,-217 55,184 223,319 421,319 z m 0,-1088 c 344,0 623,285 623,638 0,352 -279,637 -623,637 -344,0 -623,-285 -623,-637 0,-353 279,-638 623,-638 z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#3174c1;stroke:#236abd;stroke-width:26.38170052" />
+  </g>
+ </g>
+</svg>

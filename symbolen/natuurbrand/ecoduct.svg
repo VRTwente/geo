@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="69"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 69 70"
+   id="svg19"
+   sodipodi:docname="ecoduct.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview21"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="7.0995161"
+   inkscape:cx="14.829496"
+   inkscape:cy="22.748938"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg19" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:26.5444}
+    .str1 {stroke:#945231;stroke-width:26.5444}
+    .str2 {stroke:#EF7308;stroke-width:26.5444}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#945231}
+    .fil2 {fill:#EF7308}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.04563979,0,0,0.04563979,-0.04269524,0.05649759)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_851461216">
+   <rect
+   class="fil0 str0"
+   x="87"
+   y="89"
+   width="1327"
+   height="1355"
+   rx="59"
+   ry="59"
+   id="rect7"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:26.54439926" />
+   <rect
+   class="fil1 str1"
+   x="57"
+   y="65"
+   width="1378"
+   height="1410"
+   id="rect9"
+   style="fill:#945231;stroke:#945231;stroke-width:26.54439926" />
+   <path
+   class="fil2 str2"
+   d="m 131,1519 h 1239 c 65,0 118,-53 118,-118 V 131 C 1488,66 1435,13 1370,13 H 131 C 66,13 13,66 13,131 v 1270 c 0,65 53,118 118,118 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#ef7308;stroke:#ef7308;stroke-width:26.54439926" />
+   <path
+   class="fil2 str2"
+   d="m 146,89 h 1209 c 33,0 59,26 59,58 v 1237 c 0,33 -26,59 -59,59 H 146 c -32,0 -59,-26 -59,-59 V 147 c 0,-32 27,-58 59,-58 z"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:#ef7308;stroke:#ef7308;stroke-width:26.54439926" />
+   <path
+   class="fil0 str0"
+   d="m 751,616 c -236,0 -472,30 -472,150 0,60 0,120 0,240 H 161 V 762 c 2,-137 177,-236 590,-236 413,0 590,99 590,236 v 244 h -118 c 0,-120 0,-180 0,-240 0,-120 -236,-150 -472,-150 z"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe;stroke:#fefefe;stroke-width:26.54439926" />
+  </g>
+ </g>
+</svg>

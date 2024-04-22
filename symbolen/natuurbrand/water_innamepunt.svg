@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="70"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 70 70"
+   id="svg13"
+   sodipodi:docname="waterinnamepunt.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview15"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="3.6222427"
+   inkscape:cx="-3.7862612"
+   inkscape:cy="-39.898279"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg13" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:30.5267}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#236ABD}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.0405533,0,0,0.04056983,0.1374306,0.29308871)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_855206048">
+   <path
+   class="fil0 str0"
+   d="M 1711,863 C 1711,395 1332,15 863,15 395,15 15,395 15,863 c 0,469 380,848 848,848 469,0 848,-379 848,-848 z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   style="fill:#236abd;stroke:#2b2a29;stroke-width:30.52669907" />
+   <polygon
+   class="fil1 str0"
+   points="1029,632 1540,646 1130,948 1281,1430 870,1135 453,1430 612,945 195,636 706,629 870,150 "
+   id="polygon9"
+   style="fill:#fefefe;stroke:#2b2a29;stroke-width:30.52669907" />
+  </g>
+ </g>
+</svg>

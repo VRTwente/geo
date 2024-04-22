@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="70"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 70 70"
+   id="svg21"
+   sodipodi:docname="uitzichtpunt.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview23"
+   showgrid="false"
+   units="px"
+   inkscape:zoom="3.6898826"
+   inkscape:cx="27.201186"
+   inkscape:cy="-19.216903"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg21" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#020202}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.04371361,0,0,0.04371361,-0.38010749,-0.14164452)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_851545744">
+   <path
+   class="fil0"
+   d="m 1244,805 c -2,-2 -5,-6 -6,-4 L 1083,780 C 946,767 136,679 88,688 -20,708 -30,865 67,903 c 43,17 123,2 170,-2 299,-27 741,-85 1007,-96 z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+   <path
+   class="fil0"
+   d="m 1272,877 c -94,12 -225,52 -316,75 l -630,154 c -54,13 -106,18 -137,60 -32,43 -23,112 9,146 76,82 203,-7 280,-46 185,-91 654,-308 794,-389 z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+   <path
+   class="fil0"
+   d="M 1263,718 343,266 c -126,-59 -215,69 -158,158 25,41 73,51 132,65 129,31 886,225 946,229 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+   <path
+   class="fil0"
+   d="m 1308,948 c -73,38 -144,88 -216,133 l -434,272 c -34,21 -76,44 -94,78 -26,48 -11,101 19,132 95,94 180,-14 222,-63 83,-97 480,-510 503,-552 z"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+   <path
+   class="fil0"
+   d="m 1303,646 c -16,-26 -53,-66 -79,-92 C 1131,461 988,292 891,188 L 721,14 c -91,-49 -208,40 -159,150 19,41 54,55 94,79 74,44 140,90 217,136 72,44 392,254 430,267 z"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+   <path
+   class="fil0"
+   d="m 1448,694 c -25,10 -46,16 -63,52 -46,95 44,198 148,157 48,-18 85,-80 61,-147 -18,-48 -76,-89 -146,-62 z"
+   id="path17"
+   inkscape:connector-curvature="0"
+   style="fill:#020202" />
+  </g>
+ </g>
+</svg>
