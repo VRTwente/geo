@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xml:space="preserve"
+   width="179mm"
+   height="179mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 179 179"
+   id="svg223"
+   sodipodi:docname="camera_dome_schoon_v1.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview225"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="0.64"
+   inkscape:cx="499.21875"
+   inkscape:cy="100"
+   inkscape:window-width="1346"
+   inkscape:window-height="1205"
+   inkscape:window-x="5647"
+   inkscape:window-y="133"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Laag_x0020_1" />
+ <defs
+   id="defs209">
+  <style
+   type="text/css"
+   id="style207">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:3.04167}
+    .fil2 {fill:#00A0E3}
+    .fil0 {fill:#393185}
+    .fil1 {fill:#EBECEC}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   inkscape:label="Laag 1"
+   inkscape:groupmode="layer">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  
+  
+  
+  <g
+   id="g373"
+   transform="matrix(0.88243337,0,0,0.87864246,-0.27023785,0.1958448)"><path
+     class="fil0 str0"
+     d="m 45,180 c 0,0 0,0 0,0 l 1,1 c 0,0 1,1 1,1 1,1 2,2 3,2 25,18 54,22 83,11 9,-3 19,-10 24,-15 0,-1 0,0 0,-2 l 4,-5 c 1,-3 2,-6 2,-9 1,-6 0,-15 0,-22 0,-15 -2,-26 -7,-37 -24,-46 -86,-45 -109,-1 -6,11 -8,21 -8,37 0,6 -1,16 0,23 0,3 1,6 2,8 2,3 4,5 4,8 z"
+     id="path212" /><path
+     class="fil0 str0"
+     d="m 9,56 c 7,2 77,1 90,1 7,0 87,0 91,0 14,-4 11,-6 11,-31 0,-5 1,-16 -2,-20 -3,-5 -8,-4 -15,-4 H 23 C 18,2 9,1 5,4 1,7 2,13 2,20 c 0,8 0,15 0,22 0,8 0,11 7,14 z"
+     id="path214" /><path
+     class="fil0 str0"
+     d="m 45,180 c 0,-3 -2,-5 -4,-8 -1,-2 -2,-5 -2,-8 -1,-7 0,-17 0,-23 0,-16 2,-26 8,-37 23,-44 85,-45 109,1 5,11 7,22 7,37 0,7 1,16 0,22 0,3 -1,6 -2,9 l -4,5 c 0,2 0,1 0,2 3,-1 8,-7 10,-9 9,-13 16,-21 20,-39 5,-20 3,-53 3,-75 -4,0 -84,0 -91,0 L 12,56 v 0 c 0,41 -6,77 18,109 3,4 12,14 15,15 z"
+     id="path216" /><path
+     class="fil1 str0"
+     d="m 93,82 c -26,4 -47,30 -43,61 7,45 61,63 91,25 5,-5 7,-10 9,-17 3,-8 3,-15 2,-24 C 149,99 123,77 93,82 Z"
+     id="path218" /><path
+     class="fil2 str0"
+     d="m 98,99 c -18,2 -33,19 -31,40 2,18 18,34 38,31 18,-2 32,-18 30,-39 -2,-18 -17,-34 -37,-32 z"
+     id="path220" /></g>
+ </g>
+</svg>
