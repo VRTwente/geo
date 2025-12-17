@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xml:space="preserve"
+   width="69"
+   height="70"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 69 70"
+   id="svg29"
+   sodipodi:docname="blauwedriehoek.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   id="namedview31"
+   showgrid="false"
+   units="px"
+   scale-x="67.90006"
+   inkscape:zoom="7.099516"
+   inkscape:cx="13.099485"
+   inkscape:cy="39.228026"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Laag_x0020_1"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str3 {stroke:#2B2A29;stroke-width:22.5875}
+    .str0 {stroke:#FEFEFE;stroke-width:22.5875}
+    .str2 {stroke:#375895;stroke-width:22.5875}
+    .str1 {stroke:#945231;stroke-width:22.5875}
+    .fil3 {fill:#2B2A29}
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:#375895}
+    .fil1 {fill:#945231}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Laag_x0020_1"
+   transform="matrix(0.05356036,0,0,0.05356036,0.28540586,0.1931216)"
+   inkscape:label="Laag 1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+ <path
+   sodipodi:type="star"
+   style="fill:#082fc9;fill-opacity:1;stroke:none;stroke-width:201.042;stroke-dasharray:none"
+   id="path1"
+   inkscape:flatsided="true"
+   sodipodi:sides="3"
+   sodipodi:cx="310.25098"
+   sodipodi:cy="288.30551"
+   sodipodi:r1="301.82391"
+   sodipodi:r2="150.91196"
+   sodipodi:arg1="0.72374799"
+   sodipodi:arg2="1.7709455"
+   inkscape:rounded="0"
+   inkscape:randomized="0"
+   d="M 536.41641,488.17264 24.078246,384.23696 370.25827,-7.493068 Z"
+   inkscape:transform-center-x="-0.33616523"
+   inkscape:transform-center-y="-11.593079"
+   transform="matrix(2.4059702,-0.56824465,0.53052493,2.8174452,-264.98813,230.68684)" /></g>
+</svg>
